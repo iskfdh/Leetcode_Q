@@ -26,4 +26,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2965-find-missing-and-repeated-values](https://github.com/iskfdh/Leetcode_Q/tree/master/2965-find-missing-and-repeated-values) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/iskfdh/Leetcode_Q/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/iskfdh/Leetcode_Q/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/iskfdh/Leetcode_Q/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
