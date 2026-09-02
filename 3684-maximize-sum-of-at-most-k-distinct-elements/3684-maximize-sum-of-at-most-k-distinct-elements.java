@@ -1,17 +1,31 @@
 class Solution {
     public int[] maxKDistinct(int[] nums, int k) {
          Arrays.sort(nums);
-        int n = nums.length;
-        List<Integer> ans = new ArrayList<>();
-        for (int i = n - 1; i >= 0; --i) {
-            if (i + 1 < n && nums[i] == nums[i + 1]) {
-                continue;
+        int sum=0;
+        HashSet<Integer> a = new HashSet<>();
+        for(int i=nums.length-1;i>=0;i--){
+            if(k>0){
+                if(a.contains(nums[i])){
+                    nums[i]=-1;
+                }
+                else{
+                    k--;
+                    sum++;
+                    a.add(nums[i]);
+                }
             }
-            ans.add(nums[i]);
-            if (--k == 0) {
-                break;
+            else{
+                nums[i] = -1;
             }
         }
-        return ans.stream().mapToInt(x -> x).toArray();
+        int c=0;
+        int arr[]=new int[sum];
+         for(int i=nums.length-1;i>=0;i--){
+            if(nums[i]!=-1)
+            {
+                arr[c]=nums[i];
+                c++;
+            }
+        }return arr;
     }
 }
