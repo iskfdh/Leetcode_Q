@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/iskfdh/Leetcode_Q/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/iskfdh/Leetcode_Q/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/iskfdh/Leetcode_Q/tree/master/2965-find-missing-and-repeated-values) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/iskfdh/Leetcode_Q/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/iskfdh/Leetcode_Q/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/iskfdh/Leetcode_Q/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/iskfdh/Leetcode_Q/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/iskfdh/Leetcode_Q/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/iskfdh/Leetcode_Q/tree/master/2965-find-missing-and-repeated-values) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/iskfdh/Leetcode_Q/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/iskfdh/Leetcode_Q/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Counting
 |  |
@@ -67,4 +69,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/iskfdh/Leetcode_Q/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/iskfdh/Leetcode_Q/tree/master/0350-intersection-of-two-arrays-ii) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/iskfdh/Leetcode_Q/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+## Greedy
+|  |
+| ------- |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/iskfdh/Leetcode_Q/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 <!---LeetCode Topics End-->
