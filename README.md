@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/iskfdh/Leetcode_Q/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iskfdh/Leetcode_Q/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/iskfdh/Leetcode_Q/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0525-contiguous-array](https://github.com/iskfdh/Leetcode_Q/tree/master/0525-contiguous-array) |
@@ -94,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/iskfdh/Leetcode_Q/tree/master/2396-strictly-palindromic-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0137-single-number-ii](https://github.com/iskfdh/Leetcode_Q/tree/master/0137-single-number-ii) |
 <!---LeetCode Topics End-->
