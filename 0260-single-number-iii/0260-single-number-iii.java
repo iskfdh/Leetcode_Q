@@ -6,10 +6,10 @@ class Solution {
         int i=0;
         Arrays.sort(nums);
         while(i<nums.length){
+            if (a==2){return ans;}
             if(i==nums.length-1 || nums[i]!=nums[i+1]){
-               
                 ans[a]=nums[i];
-                 i++;
+                i++;
                 a++;
             }else
             i+=2;
