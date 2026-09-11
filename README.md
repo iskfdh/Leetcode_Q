@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/iskfdh/Leetcode_Q/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/iskfdh/Leetcode_Q/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/iskfdh/Leetcode_Q/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/iskfdh/Leetcode_Q/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2965-find-missing-and-repeated-values](https://github.com/iskfdh/Leetcode_Q/tree/master/2965-find-missing-and-repeated-values) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/iskfdh/Leetcode_Q/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/iskfdh/Leetcode_Q/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [2500-delete-greatest-value-in-each-row](https://github.com/iskfdh/Leetcode_Q/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2965-find-missing-and-repeated-values](https://github.com/iskfdh/Leetcode_Q/tree/master/2965-find-missing-and-repeated-values) |
 ## String
 |  |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/iskfdh/Leetcode_Q/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/iskfdh/Leetcode_Q/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/iskfdh/Leetcode_Q/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/iskfdh/Leetcode_Q/tree/master/2500-delete-greatest-value-in-each-row) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/iskfdh/Leetcode_Q/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Greedy
 |  |
@@ -122,4 +125,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/iskfdh/Leetcode_Q/tree/master/1913-maximum-product-difference-between-two-pairs) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2500-delete-greatest-value-in-each-row](https://github.com/iskfdh/Leetcode_Q/tree/master/2500-delete-greatest-value-in-each-row) |
+## Simulation
+|  |
+| ------- |
+| [2500-delete-greatest-value-in-each-row](https://github.com/iskfdh/Leetcode_Q/tree/master/2500-delete-greatest-value-in-each-row) |
 <!---LeetCode Topics End-->
