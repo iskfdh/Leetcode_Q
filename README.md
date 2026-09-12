@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-decode-xored-array](https://github.com/iskfdh/Leetcode_Q/tree/master/1720-decode-xored-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/iskfdh/Leetcode_Q/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/iskfdh/Leetcode_Q/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/iskfdh/Leetcode_Q/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/iskfdh/Leetcode_Q/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2965-find-missing-and-repeated-values](https://github.com/iskfdh/Leetcode_Q/tree/master/2965-find-missing-and-repeated-values) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/iskfdh/Leetcode_Q/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iskfdh/Leetcode_Q/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/iskfdh/Leetcode_Q/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/iskfdh/Leetcode_Q/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/iskfdh/Leetcode_Q/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/iskfdh/Leetcode_Q/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/iskfdh/Leetcode_Q/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/iskfdh/Leetcode_Q/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/iskfdh/Leetcode_Q/tree/master/2500-delete-greatest-value-in-each-row) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/iskfdh/Leetcode_Q/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/iskfdh/Leetcode_Q/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
