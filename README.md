@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/iskfdh/Leetcode_Q/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2965-find-missing-and-repeated-values](https://github.com/iskfdh/Leetcode_Q/tree/master/2965-find-missing-and-repeated-values) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/iskfdh/Leetcode_Q/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3354-make-array-elements-equal-to-zero](https://github.com/iskfdh/Leetcode_Q/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/iskfdh/Leetcode_Q/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/iskfdh/Leetcode_Q/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/iskfdh/Leetcode_Q/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/iskfdh/Leetcode_Q/tree/master/0525-contiguous-array) |
+| [3354-make-array-elements-equal-to-zero](https://github.com/iskfdh/Leetcode_Q/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/iskfdh/Leetcode_Q/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/iskfdh/Leetcode_Q/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2500-delete-greatest-value-in-each-row](https://github.com/iskfdh/Leetcode_Q/tree/master/2500-delete-greatest-value-in-each-row) |
+| [3354-make-array-elements-equal-to-zero](https://github.com/iskfdh/Leetcode_Q/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/iskfdh/Leetcode_Q/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Enumeration
 |  |
