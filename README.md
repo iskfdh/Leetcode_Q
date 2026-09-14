@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2500-delete-greatest-value-in-each-row](https://github.com/iskfdh/Leetcode_Q/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/iskfdh/Leetcode_Q/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2965-find-missing-and-repeated-values](https://github.com/iskfdh/Leetcode_Q/tree/master/2965-find-missing-and-repeated-values) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/iskfdh/Leetcode_Q/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/iskfdh/Leetcode_Q/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/iskfdh/Leetcode_Q/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/iskfdh/Leetcode_Q/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/iskfdh/Leetcode_Q/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/iskfdh/Leetcode_Q/tree/master/2206-divide-array-into-equal-pairs) |
 | [2965-find-missing-and-repeated-values](https://github.com/iskfdh/Leetcode_Q/tree/master/2965-find-missing-and-repeated-values) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/iskfdh/Leetcode_Q/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3146-permutation-difference-between-two-strings](https://github.com/iskfdh/Leetcode_Q/tree/master/3146-permutation-difference-between-two-strings) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/iskfdh/Leetcode_Q/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/iskfdh/Leetcode_Q/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/iskfdh/Leetcode_Q/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/iskfdh/Leetcode_Q/tree/master/2206-divide-array-into-equal-pairs) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/iskfdh/Leetcode_Q/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/iskfdh/Leetcode_Q/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/iskfdh/Leetcode_Q/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Math
 |  |
