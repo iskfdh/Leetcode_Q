@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/iskfdh/Leetcode_Q/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/iskfdh/Leetcode_Q/tree/master/0088-merge-sorted-array) |
 | [0137-single-number-ii](https://github.com/iskfdh/Leetcode_Q/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iskfdh/Leetcode_Q/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/iskfdh/Leetcode_Q/tree/master/0169-majority-element) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/iskfdh/Leetcode_Q/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/iskfdh/Leetcode_Q/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iskfdh/Leetcode_Q/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/iskfdh/Leetcode_Q/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2396-strictly-palindromic-number](https://github.com/iskfdh/Leetcode_Q/tree/master/2396-strictly-palindromic-number) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/iskfdh/Leetcode_Q/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/iskfdh/Leetcode_Q/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/iskfdh/Leetcode_Q/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/iskfdh/Leetcode_Q/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/iskfdh/Leetcode_Q/tree/master/0350-intersection-of-two-arrays-ii) |
