@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iskfdh/Leetcode_Q/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/iskfdh/Leetcode_Q/tree/master/0169-majority-element) |
 | [0260-single-number-iii](https://github.com/iskfdh/Leetcode_Q/tree/master/0260-single-number-iii) |
+| [0303-range-sum-query-immutable](https://github.com/iskfdh/Leetcode_Q/tree/master/0303-range-sum-query-immutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/iskfdh/Leetcode_Q/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0525-contiguous-array](https://github.com/iskfdh/Leetcode_Q/tree/master/0525-contiguous-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/iskfdh/Leetcode_Q/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/iskfdh/Leetcode_Q/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/iskfdh/Leetcode_Q/tree/master/0525-contiguous-array) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/iskfdh/Leetcode_Q/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/iskfdh/Leetcode_Q/tree/master/3903-smallest-stable-index-i) |
@@ -187,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/iskfdh/Leetcode_Q/tree/master/0169-majority-element) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/iskfdh/Leetcode_Q/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
