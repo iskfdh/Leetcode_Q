@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/iskfdh/Leetcode_Q/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1720-decode-xored-array](https://github.com/iskfdh/Leetcode_Q/tree/master/1720-decode-xored-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/iskfdh/Leetcode_Q/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [1991-find-the-middle-index-in-array](https://github.com/iskfdh/Leetcode_Q/tree/master/1991-find-the-middle-index-in-array) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/iskfdh/Leetcode_Q/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/iskfdh/Leetcode_Q/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/iskfdh/Leetcode_Q/tree/master/2206-divide-array-into-equal-pairs) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/iskfdh/Leetcode_Q/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/iskfdh/Leetcode_Q/tree/master/0525-contiguous-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/iskfdh/Leetcode_Q/tree/master/1991-find-the-middle-index-in-array) |
 | [2485-find-the-pivot-integer](https://github.com/iskfdh/Leetcode_Q/tree/master/2485-find-the-pivot-integer) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/iskfdh/Leetcode_Q/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/iskfdh/Leetcode_Q/tree/master/3903-smallest-stable-index-i) |
