@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/iskfdh/Leetcode_Q/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/iskfdh/Leetcode_Q/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/iskfdh/Leetcode_Q/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/iskfdh/Leetcode_Q/tree/master/0136-single-number) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/iskfdh/Leetcode_Q/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/iskfdh/Leetcode_Q/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/iskfdh/Leetcode_Q/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/iskfdh/Leetcode_Q/tree/master/0350-intersection-of-two-arrays-ii) |
