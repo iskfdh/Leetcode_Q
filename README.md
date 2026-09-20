@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/iskfdh/Leetcode_Q/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/iskfdh/Leetcode_Q/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3146-permutation-difference-between-two-strings](https://github.com/iskfdh/Leetcode_Q/tree/master/3146-permutation-difference-between-two-strings) |
+| [3498-reverse-degree-of-a-string](https://github.com/iskfdh/Leetcode_Q/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2500-delete-greatest-value-in-each-row](https://github.com/iskfdh/Leetcode_Q/tree/master/2500-delete-greatest-value-in-each-row) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/iskfdh/Leetcode_Q/tree/master/3354-make-array-elements-equal-to-zero) |
+| [3498-reverse-degree-of-a-string](https://github.com/iskfdh/Leetcode_Q/tree/master/3498-reverse-degree-of-a-string) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/iskfdh/Leetcode_Q/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Enumeration
 |  |
