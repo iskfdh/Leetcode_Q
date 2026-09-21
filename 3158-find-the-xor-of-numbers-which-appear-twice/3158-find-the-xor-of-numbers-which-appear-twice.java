@@ -1,0 +1,16 @@
+class Solution {
+    public int duplicateNumbersXOR(int[] nums) {
+        HashSet<Integer> set=new HashSet<>();
+        int xor=0;
+       for(int i=0;i<nums.length;i++){
+        if(set.contains(nums[i])){
+            xor^=nums[i];
+        } else {
+            set.add(nums[i]);
+            xor^=nums[i];
+            xor^=nums[i];
+        }
+       } 
+        return xor;
+    }
+}
