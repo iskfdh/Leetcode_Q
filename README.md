@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/iskfdh/Leetcode_Q/tree/master/0169-majority-element) |
 | [0260-single-number-iii](https://github.com/iskfdh/Leetcode_Q/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/iskfdh/Leetcode_Q/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/iskfdh/Leetcode_Q/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/iskfdh/Leetcode_Q/tree/master/0303-range-sum-query-immutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/iskfdh/Leetcode_Q/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0525-contiguous-array](https://github.com/iskfdh/Leetcode_Q/tree/master/0525-contiguous-array) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/iskfdh/Leetcode_Q/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/iskfdh/Leetcode_Q/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iskfdh/Leetcode_Q/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/iskfdh/Leetcode_Q/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/iskfdh/Leetcode_Q/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/iskfdh/Leetcode_Q/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0905-sort-array-by-parity](https://github.com/iskfdh/Leetcode_Q/tree/master/0905-sort-array-by-parity) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iskfdh/Leetcode_Q/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/iskfdh/Leetcode_Q/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/iskfdh/Leetcode_Q/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/iskfdh/Leetcode_Q/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/iskfdh/Leetcode_Q/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/iskfdh/Leetcode_Q/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/iskfdh/Leetcode_Q/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/iskfdh/Leetcode_Q/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/iskfdh/Leetcode_Q/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/iskfdh/Leetcode_Q/tree/master/0287-find-the-duplicate-number) |
 | [0461-hamming-distance](https://github.com/iskfdh/Leetcode_Q/tree/master/0461-hamming-distance) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/iskfdh/Leetcode_Q/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/iskfdh/Leetcode_Q/tree/master/1720-decode-xored-array) |
@@ -226,4 +230,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/iskfdh/Leetcode_Q/tree/master/0303-range-sum-query-immutable) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/iskfdh/Leetcode_Q/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/iskfdh/Leetcode_Q/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
