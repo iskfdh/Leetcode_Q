@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iskfdh/Leetcode_Q/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/iskfdh/Leetcode_Q/tree/master/0169-majority-element) |
 | [0260-single-number-iii](https://github.com/iskfdh/Leetcode_Q/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/iskfdh/Leetcode_Q/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/iskfdh/Leetcode_Q/tree/master/0303-range-sum-query-immutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/iskfdh/Leetcode_Q/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0525-contiguous-array](https://github.com/iskfdh/Leetcode_Q/tree/master/0525-contiguous-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/iskfdh/Leetcode_Q/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/iskfdh/Leetcode_Q/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/iskfdh/Leetcode_Q/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/iskfdh/Leetcode_Q/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/iskfdh/Leetcode_Q/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0525-contiguous-array](https://github.com/iskfdh/Leetcode_Q/tree/master/0525-contiguous-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/iskfdh/Leetcode_Q/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/iskfdh/Leetcode_Q/tree/master/0050-powx-n) |
+| [0268-missing-number](https://github.com/iskfdh/Leetcode_Q/tree/master/0268-missing-number) |
 | [2396-strictly-palindromic-number](https://github.com/iskfdh/Leetcode_Q/tree/master/2396-strictly-palindromic-number) |
 | [2485-find-the-pivot-integer](https://github.com/iskfdh/Leetcode_Q/tree/master/2485-find-the-pivot-integer) |
 | [2965-find-missing-and-repeated-values](https://github.com/iskfdh/Leetcode_Q/tree/master/2965-find-missing-and-repeated-values) |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iskfdh/Leetcode_Q/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/iskfdh/Leetcode_Q/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/iskfdh/Leetcode_Q/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/iskfdh/Leetcode_Q/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/iskfdh/Leetcode_Q/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -148,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/iskfdh/Leetcode_Q/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/iskfdh/Leetcode_Q/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/iskfdh/Leetcode_Q/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/iskfdh/Leetcode_Q/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/iskfdh/Leetcode_Q/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/iskfdh/Leetcode_Q/tree/master/0905-sort-array-by-parity) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/iskfdh/Leetcode_Q/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -174,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/iskfdh/Leetcode_Q/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/iskfdh/Leetcode_Q/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/iskfdh/Leetcode_Q/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/iskfdh/Leetcode_Q/tree/master/0268-missing-number) |
 | [0461-hamming-distance](https://github.com/iskfdh/Leetcode_Q/tree/master/0461-hamming-distance) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/iskfdh/Leetcode_Q/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/iskfdh/Leetcode_Q/tree/master/1720-decode-xored-array) |
