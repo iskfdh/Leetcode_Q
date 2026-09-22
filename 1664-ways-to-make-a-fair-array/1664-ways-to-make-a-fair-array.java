@@ -1,6 +1,9 @@
 class Solution {
     public int waysToMakeFair(int[] nums) {
-        int res = 0, n = nums.length, left[] = new int[2], right[] = new int[2];
+        int res = 0;
+        int n = nums.length;
+        int left[] = new int[2];
+        int right[] = new int[2];
         for (int i = 0; i < n; i++)
             right[i%2] += nums[i]; 
         for (int i = 0; i < n; i++) {
