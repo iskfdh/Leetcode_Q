@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3876-construct-uniform-parity-array-ii](https://github.com/iskfdh/Leetcode_Q/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/iskfdh/Leetcode_Q/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/iskfdh/Leetcode_Q/tree/master/3904-smallest-stable-index-ii) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/iskfdh/Leetcode_Q/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/iskfdh/Leetcode_Q/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2396-strictly-palindromic-number](https://github.com/iskfdh/Leetcode_Q/tree/master/2396-strictly-palindromic-number) |
 | [2540-minimum-common-value](https://github.com/iskfdh/Leetcode_Q/tree/master/2540-minimum-common-value) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/iskfdh/Leetcode_Q/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
