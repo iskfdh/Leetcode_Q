@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/iskfdh/Leetcode_Q/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/iskfdh/Leetcode_Q/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/iskfdh/Leetcode_Q/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3838-weighted-word-mapping](https://github.com/iskfdh/Leetcode_Q/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/iskfdh/Leetcode_Q/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/iskfdh/Leetcode_Q/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/iskfdh/Leetcode_Q/tree/master/3903-smallest-stable-index-i) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/iskfdh/Leetcode_Q/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3146-permutation-difference-between-two-strings](https://github.com/iskfdh/Leetcode_Q/tree/master/3146-permutation-difference-between-two-strings) |
 | [3498-reverse-degree-of-a-string](https://github.com/iskfdh/Leetcode_Q/tree/master/3498-reverse-degree-of-a-string) |
+| [3838-weighted-word-mapping](https://github.com/iskfdh/Leetcode_Q/tree/master/3838-weighted-word-mapping) |
 ## Stack
 |  |
 | ------- |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3477-fruits-into-baskets-ii](https://github.com/iskfdh/Leetcode_Q/tree/master/3477-fruits-into-baskets-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/iskfdh/Leetcode_Q/tree/master/3498-reverse-degree-of-a-string) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/iskfdh/Leetcode_Q/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3838-weighted-word-mapping](https://github.com/iskfdh/Leetcode_Q/tree/master/3838-weighted-word-mapping) |
 ## Enumeration
 |  |
 | ------- |
