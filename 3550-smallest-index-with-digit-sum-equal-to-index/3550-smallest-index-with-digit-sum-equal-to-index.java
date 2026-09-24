@@ -1,7 +1,8 @@
 class Solution {
     public int smallestIndex(int[] nums) {
+        int n=0;
         for(int i=0;i<nums.length;i++){
-                int n=nums[i];
+            n=nums[i];
             if(n>9){int sum=0;
             while(n>0){
                 sum+=n%10;
