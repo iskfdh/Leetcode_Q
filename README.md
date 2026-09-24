@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/iskfdh/Leetcode_Q/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/iskfdh/Leetcode_Q/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3477-fruits-into-baskets-ii](https://github.com/iskfdh/Leetcode_Q/tree/master/3477-fruits-into-baskets-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/iskfdh/Leetcode_Q/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/iskfdh/Leetcode_Q/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/iskfdh/Leetcode_Q/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/iskfdh/Leetcode_Q/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2396-strictly-palindromic-number](https://github.com/iskfdh/Leetcode_Q/tree/master/2396-strictly-palindromic-number) |
 | [2485-find-the-pivot-integer](https://github.com/iskfdh/Leetcode_Q/tree/master/2485-find-the-pivot-integer) |
 | [2965-find-missing-and-repeated-values](https://github.com/iskfdh/Leetcode_Q/tree/master/2965-find-missing-and-repeated-values) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/iskfdh/Leetcode_Q/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/iskfdh/Leetcode_Q/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/iskfdh/Leetcode_Q/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/iskfdh/Leetcode_Q/tree/master/3871-count-commas-in-range-ii) |
