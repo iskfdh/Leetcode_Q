@@ -9,7 +9,7 @@ class Solution {
             }
             if (c != '(') continue;
             d++;
-            if (d > r) r = d;
+            r=Math.max(d,r);
         }
         return r;
     }
