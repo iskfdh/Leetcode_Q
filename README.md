@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1664-ways-to-make-a-fair-array](https://github.com/iskfdh/Leetcode_Q/tree/master/1664-ways-to-make-a-fair-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/iskfdh/Leetcode_Q/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/iskfdh/Leetcode_Q/tree/master/1720-decode-xored-array) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/iskfdh/Leetcode_Q/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/iskfdh/Leetcode_Q/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1991-find-the-middle-index-in-array](https://github.com/iskfdh/Leetcode_Q/tree/master/1991-find-the-middle-index-in-array) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/iskfdh/Leetcode_Q/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/iskfdh/Leetcode_Q/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/iskfdh/Leetcode_Q/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Database
 |  |
