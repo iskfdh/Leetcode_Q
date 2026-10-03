@@ -5,7 +5,6 @@ class Solution {
         for(char ch : s.toCharArray()){
             if(ch=='(' || ch=='{' || ch=='['){
                 st.push(ch);
-
             }
             else if(ch==')'){
                 if(!st.isEmpty() && st.peek()=='('  ) st.pop();
