@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/iskfdh/Leetcode_Q/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/iskfdh/Leetcode_Q/tree/master/0242-valid-anagram) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/iskfdh/Leetcode_Q/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0678-valid-parenthesis-string](https://github.com/iskfdh/Leetcode_Q/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/iskfdh/Leetcode_Q/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/iskfdh/Leetcode_Q/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1768-merge-strings-alternately](https://github.com/iskfdh/Leetcode_Q/tree/master/1768-merge-strings-alternately) |
@@ -137,11 +138,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/iskfdh/Leetcode_Q/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/iskfdh/Leetcode_Q/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/iskfdh/Leetcode_Q/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/iskfdh/Leetcode_Q/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/iskfdh/Leetcode_Q/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/iskfdh/Leetcode_Q/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Prefix Sum
 |  |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/iskfdh/Leetcode_Q/tree/master/0678-valid-parenthesis-string) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/iskfdh/Leetcode_Q/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/iskfdh/Leetcode_Q/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/iskfdh/Leetcode_Q/tree/master/4000-largest-integer-with-given-digit-sum) |
@@ -300,4 +304,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/iskfdh/Leetcode_Q/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/iskfdh/Leetcode_Q/tree/master/0209-minimum-size-subarray-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/iskfdh/Leetcode_Q/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
