@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/iskfdh/Leetcode_Q/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/iskfdh/Leetcode_Q/tree/master/2540-minimum-common-value) |
 | [2562-find-the-array-concatenation-value](https://github.com/iskfdh/Leetcode_Q/tree/master/2562-find-the-array-concatenation-value) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/iskfdh/Leetcode_Q/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2965-find-missing-and-repeated-values](https://github.com/iskfdh/Leetcode_Q/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/iskfdh/Leetcode_Q/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/iskfdh/Leetcode_Q/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/iskfdh/Leetcode_Q/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2843-count-symmetric-integers](https://github.com/iskfdh/Leetcode_Q/tree/master/2843-count-symmetric-integers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/iskfdh/Leetcode_Q/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/iskfdh/Leetcode_Q/tree/master/3483-unique-3-digit-even-numbers) |
