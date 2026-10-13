@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/iskfdh/Leetcode_Q/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/iskfdh/Leetcode_Q/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/iskfdh/Leetcode_Q/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/iskfdh/Leetcode_Q/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/iskfdh/Leetcode_Q/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/iskfdh/Leetcode_Q/tree/master/0303-range-sum-query-immutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/iskfdh/Leetcode_Q/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/iskfdh/Leetcode_Q/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/iskfdh/Leetcode_Q/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iskfdh/Leetcode_Q/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/iskfdh/Leetcode_Q/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/iskfdh/Leetcode_Q/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/iskfdh/Leetcode_Q/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/iskfdh/Leetcode_Q/tree/master/0557-reverse-words-in-a-string-iii) |
