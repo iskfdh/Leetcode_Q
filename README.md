@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/iskfdh/Leetcode_Q/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/iskfdh/Leetcode_Q/tree/master/2206-divide-array-into-equal-pairs) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/iskfdh/Leetcode_Q/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/iskfdh/Leetcode_Q/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/iskfdh/Leetcode_Q/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/iskfdh/Leetcode_Q/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/iskfdh/Leetcode_Q/tree/master/2540-minimum-common-value) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/iskfdh/Leetcode_Q/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1664-ways-to-make-a-fair-array](https://github.com/iskfdh/Leetcode_Q/tree/master/1664-ways-to-make-a-fair-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/iskfdh/Leetcode_Q/tree/master/1991-find-the-middle-index-in-array) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/iskfdh/Leetcode_Q/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2485-find-the-pivot-integer](https://github.com/iskfdh/Leetcode_Q/tree/master/2485-find-the-pivot-integer) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/iskfdh/Leetcode_Q/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/iskfdh/Leetcode_Q/tree/master/3354-make-array-elements-equal-to-zero) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/iskfdh/Leetcode_Q/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/iskfdh/Leetcode_Q/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/iskfdh/Leetcode_Q/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/iskfdh/Leetcode_Q/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/iskfdh/Leetcode_Q/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/iskfdh/Leetcode_Q/tree/master/2540-minimum-common-value) |
 | [3477-fruits-into-baskets-ii](https://github.com/iskfdh/Leetcode_Q/tree/master/3477-fruits-into-baskets-ii) |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/iskfdh/Leetcode_Q/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/iskfdh/Leetcode_Q/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/iskfdh/Leetcode_Q/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/iskfdh/Leetcode_Q/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/iskfdh/Leetcode_Q/tree/master/2500-delete-greatest-value-in-each-row) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/iskfdh/Leetcode_Q/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/iskfdh/Leetcode_Q/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
@@ -256,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/iskfdh/Leetcode_Q/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/iskfdh/Leetcode_Q/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/iskfdh/Leetcode_Q/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/iskfdh/Leetcode_Q/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/iskfdh/Leetcode_Q/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/iskfdh/Leetcode_Q/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/iskfdh/Leetcode_Q/tree/master/4000-largest-integer-with-given-digit-sum) |
