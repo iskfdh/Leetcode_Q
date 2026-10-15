@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/iskfdh/Leetcode_Q/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/iskfdh/Leetcode_Q/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/iskfdh/Leetcode_Q/tree/master/0977-squares-of-a-sorted-array) |
+| [1331-rank-transform-of-an-array](https://github.com/iskfdh/Leetcode_Q/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/iskfdh/Leetcode_Q/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/iskfdh/Leetcode_Q/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/iskfdh/Leetcode_Q/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/iskfdh/Leetcode_Q/tree/master/0451-sort-characters-by-frequency) |
 | [0525-contiguous-array](https://github.com/iskfdh/Leetcode_Q/tree/master/0525-contiguous-array) |
 | [0888-fair-candy-swap](https://github.com/iskfdh/Leetcode_Q/tree/master/0888-fair-candy-swap) |
+| [1331-rank-transform-of-an-array](https://github.com/iskfdh/Leetcode_Q/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/iskfdh/Leetcode_Q/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/iskfdh/Leetcode_Q/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/iskfdh/Leetcode_Q/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/iskfdh/Leetcode_Q/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/iskfdh/Leetcode_Q/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/iskfdh/Leetcode_Q/tree/master/0977-squares-of-a-sorted-array) |
+| [1331-rank-transform-of-an-array](https://github.com/iskfdh/Leetcode_Q/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/iskfdh/Leetcode_Q/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/iskfdh/Leetcode_Q/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/iskfdh/Leetcode_Q/tree/master/1913-maximum-product-difference-between-two-pairs) |
