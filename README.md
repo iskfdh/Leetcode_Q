@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/iskfdh/Leetcode_Q/tree/master/2540-minimum-common-value) |
 | [2562-find-the-array-concatenation-value](https://github.com/iskfdh/Leetcode_Q/tree/master/2562-find-the-array-concatenation-value) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/iskfdh/Leetcode_Q/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/iskfdh/Leetcode_Q/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/iskfdh/Leetcode_Q/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/iskfdh/Leetcode_Q/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/iskfdh/Leetcode_Q/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1664-ways-to-make-a-fair-array](https://github.com/iskfdh/Leetcode_Q/tree/master/1664-ways-to-make-a-fair-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/iskfdh/Leetcode_Q/tree/master/1991-find-the-middle-index-in-array) |
 | [2485-find-the-pivot-integer](https://github.com/iskfdh/Leetcode_Q/tree/master/2485-find-the-pivot-integer) |
+| [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/iskfdh/Leetcode_Q/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/iskfdh/Leetcode_Q/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/iskfdh/Leetcode_Q/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/iskfdh/Leetcode_Q/tree/master/3904-smallest-stable-index-ii) |
