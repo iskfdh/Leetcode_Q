@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/iskfdh/Leetcode_Q/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/iskfdh/Leetcode_Q/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/iskfdh/Leetcode_Q/tree/master/0268-missing-number) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/iskfdh/Leetcode_Q/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2396-strictly-palindromic-number](https://github.com/iskfdh/Leetcode_Q/tree/master/2396-strictly-palindromic-number) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/iskfdh/Leetcode_Q/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/iskfdh/Leetcode_Q/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/iskfdh/Leetcode_Q/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/iskfdh/Leetcode_Q/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/iskfdh/Leetcode_Q/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/iskfdh/Leetcode_Q/tree/master/0451-sort-characters-by-frequency) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/iskfdh/Leetcode_Q/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/iskfdh/Leetcode_Q/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/iskfdh/Leetcode_Q/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/iskfdh/Leetcode_Q/tree/master/0260-single-number-iii) |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/iskfdh/Leetcode_Q/tree/master/0067-add-binary) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/iskfdh/Leetcode_Q/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2562-find-the-array-concatenation-value](https://github.com/iskfdh/Leetcode_Q/tree/master/2562-find-the-array-concatenation-value) |
 | [3028-ant-on-the-boundary](https://github.com/iskfdh/Leetcode_Q/tree/master/3028-ant-on-the-boundary) |
