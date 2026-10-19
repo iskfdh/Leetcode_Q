@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/iskfdh/Leetcode_Q/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0525-contiguous-array](https://github.com/iskfdh/Leetcode_Q/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/iskfdh/Leetcode_Q/tree/master/0724-find-pivot-index) |
+| [0860-lemonade-change](https://github.com/iskfdh/Leetcode_Q/tree/master/0860-lemonade-change) |
 | [0888-fair-candy-swap](https://github.com/iskfdh/Leetcode_Q/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/iskfdh/Leetcode_Q/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/iskfdh/Leetcode_Q/tree/master/0922-sort-array-by-parity-ii) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/iskfdh/Leetcode_Q/tree/master/0678-valid-parenthesis-string) |
+| [0860-lemonade-change](https://github.com/iskfdh/Leetcode_Q/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/iskfdh/Leetcode_Q/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/iskfdh/Leetcode_Q/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/iskfdh/Leetcode_Q/tree/master/2389-longest-subsequence-with-limited-sum) |
