@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/iskfdh/Leetcode_Q/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/iskfdh/Leetcode_Q/tree/master/0292-nim-game) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/iskfdh/Leetcode_Q/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/iskfdh/Leetcode_Q/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2396-strictly-palindromic-number](https://github.com/iskfdh/Leetcode_Q/tree/master/2396-strictly-palindromic-number) |
 | [2485-find-the-pivot-integer](https://github.com/iskfdh/Leetcode_Q/tree/master/2485-find-the-pivot-integer) |
 | [2843-count-symmetric-integers](https://github.com/iskfdh/Leetcode_Q/tree/master/2843-count-symmetric-integers) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/iskfdh/Leetcode_Q/tree/master/0067-add-binary) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/iskfdh/Leetcode_Q/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/iskfdh/Leetcode_Q/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2562-find-the-array-concatenation-value](https://github.com/iskfdh/Leetcode_Q/tree/master/2562-find-the-array-concatenation-value) |
 | [3028-ant-on-the-boundary](https://github.com/iskfdh/Leetcode_Q/tree/master/3028-ant-on-the-boundary) |
