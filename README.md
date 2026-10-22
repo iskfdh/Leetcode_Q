@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/iskfdh/Leetcode_Q/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/iskfdh/Leetcode_Q/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/iskfdh/Leetcode_Q/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/iskfdh/Leetcode_Q/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/iskfdh/Leetcode_Q/tree/master/0292-nim-game) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/iskfdh/Leetcode_Q/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/iskfdh/Leetcode_Q/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/iskfdh/Leetcode_Q/tree/master/0258-add-digits) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/iskfdh/Leetcode_Q/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/iskfdh/Leetcode_Q/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2562-find-the-array-concatenation-value](https://github.com/iskfdh/Leetcode_Q/tree/master/2562-find-the-array-concatenation-value) |
@@ -410,4 +412,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/iskfdh/Leetcode_Q/tree/master/0292-nim-game) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/iskfdh/Leetcode_Q/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
