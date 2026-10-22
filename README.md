@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/iskfdh/Leetcode_Q/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/iskfdh/Leetcode_Q/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/iskfdh/Leetcode_Q/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/iskfdh/Leetcode_Q/tree/master/0292-nim-game) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/iskfdh/Leetcode_Q/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2396-strictly-palindromic-number](https://github.com/iskfdh/Leetcode_Q/tree/master/2396-strictly-palindromic-number) |
 | [2485-find-the-pivot-integer](https://github.com/iskfdh/Leetcode_Q/tree/master/2485-find-the-pivot-integer) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/iskfdh/Leetcode_Q/tree/master/0292-nim-game) |
 | [2396-strictly-palindromic-number](https://github.com/iskfdh/Leetcode_Q/tree/master/2396-strictly-palindromic-number) |
 ## Bit Manipulation
 |  |
@@ -390,4 +392,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/iskfdh/Leetcode_Q/tree/master/0092-reverse-linked-list-ii) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/iskfdh/Leetcode_Q/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/iskfdh/Leetcode_Q/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/iskfdh/Leetcode_Q/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/iskfdh/Leetcode_Q/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
