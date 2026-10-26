@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/iskfdh/Leetcode_Q/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/iskfdh/Leetcode_Q/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/iskfdh/Leetcode_Q/tree/master/0292-nim-game) |
+| [0367-valid-perfect-square](https://github.com/iskfdh/Leetcode_Q/tree/master/0367-valid-perfect-square) |
 | [1103-distribute-candies-to-people](https://github.com/iskfdh/Leetcode_Q/tree/master/1103-distribute-candies-to-people) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/iskfdh/Leetcode_Q/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/iskfdh/Leetcode_Q/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/iskfdh/Leetcode_Q/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/iskfdh/Leetcode_Q/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/iskfdh/Leetcode_Q/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/iskfdh/Leetcode_Q/tree/master/0367-valid-perfect-square) |
 | [0888-fair-candy-swap](https://github.com/iskfdh/Leetcode_Q/tree/master/0888-fair-candy-swap) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/iskfdh/Leetcode_Q/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/iskfdh/Leetcode_Q/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
