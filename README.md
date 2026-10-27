@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/iskfdh/Leetcode_Q/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/iskfdh/Leetcode_Q/tree/master/0067-add-binary) |
+| [0171-excel-sheet-column-number](https://github.com/iskfdh/Leetcode_Q/tree/master/0171-excel-sheet-column-number) |
 | [0258-add-digits](https://github.com/iskfdh/Leetcode_Q/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/iskfdh/Leetcode_Q/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/iskfdh/Leetcode_Q/tree/master/0292-nim-game) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/iskfdh/Leetcode_Q/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/iskfdh/Leetcode_Q/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/iskfdh/Leetcode_Q/tree/master/0067-add-binary) |
+| [0171-excel-sheet-column-number](https://github.com/iskfdh/Leetcode_Q/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/iskfdh/Leetcode_Q/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/iskfdh/Leetcode_Q/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/iskfdh/Leetcode_Q/tree/master/0451-sort-characters-by-frequency) |
