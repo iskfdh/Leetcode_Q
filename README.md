@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/iskfdh/Leetcode_Q/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/iskfdh/Leetcode_Q/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3028-ant-on-the-boundary](https://github.com/iskfdh/Leetcode_Q/tree/master/3028-ant-on-the-boundary) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/iskfdh/Leetcode_Q/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/iskfdh/Leetcode_Q/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/iskfdh/Leetcode_Q/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3364-minimum-positive-sum-subarray](https://github.com/iskfdh/Leetcode_Q/tree/master/3364-minimum-positive-sum-subarray) |
