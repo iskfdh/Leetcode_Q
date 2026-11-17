@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/iskfdh/Leetcode_Q/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1103-distribute-candies-to-people](https://github.com/iskfdh/Leetcode_Q/tree/master/1103-distribute-candies-to-people) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/iskfdh/Leetcode_Q/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1227-airplane-seat-assignment-probability](https://github.com/iskfdh/Leetcode_Q/tree/master/1227-airplane-seat-assignment-probability) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/iskfdh/Leetcode_Q/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/iskfdh/Leetcode_Q/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2396-strictly-palindromic-number](https://github.com/iskfdh/Leetcode_Q/tree/master/2396-strictly-palindromic-number) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/iskfdh/Leetcode_Q/tree/master/0292-nim-game) |
+| [1227-airplane-seat-assignment-probability](https://github.com/iskfdh/Leetcode_Q/tree/master/1227-airplane-seat-assignment-probability) |
 | [2396-strictly-palindromic-number](https://github.com/iskfdh/Leetcode_Q/tree/master/2396-strictly-palindromic-number) |
 ## Bit Manipulation
 |  |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/iskfdh/Leetcode_Q/tree/master/0678-valid-parenthesis-string) |
+| [1227-airplane-seat-assignment-probability](https://github.com/iskfdh/Leetcode_Q/tree/master/1227-airplane-seat-assignment-probability) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/iskfdh/Leetcode_Q/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Bucket Sort
 |  |
@@ -445,4 +448,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/iskfdh/Leetcode_Q/tree/master/0258-add-digits) |
+## Probability and Statistics
+|  |
+| ------- |
+| [1227-airplane-seat-assignment-probability](https://github.com/iskfdh/Leetcode_Q/tree/master/1227-airplane-seat-assignment-probability) |
 <!---LeetCode Topics End-->
