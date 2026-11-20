@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/iskfdh/Leetcode_Q/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/iskfdh/Leetcode_Q/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/iskfdh/Leetcode_Q/tree/master/0206-reverse-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/iskfdh/Leetcode_Q/tree/master/3483-unique-3-digit-even-numbers) |
 ## Graph Theory
 |  |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/iskfdh/Leetcode_Q/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/iskfdh/Leetcode_Q/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/iskfdh/Leetcode_Q/tree/master/0092-reverse-linked-list-ii) |
+| [0206-reverse-linked-list](https://github.com/iskfdh/Leetcode_Q/tree/master/0206-reverse-linked-list) |
 ## Minimax
 |  |
 | ------- |
