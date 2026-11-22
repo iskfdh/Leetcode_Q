@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/iskfdh/Leetcode_Q/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/iskfdh/Leetcode_Q/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/iskfdh/Leetcode_Q/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/iskfdh/Leetcode_Q/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3146-permutation-difference-between-two-strings](https://github.com/iskfdh/Leetcode_Q/tree/master/3146-permutation-difference-between-two-strings) |
 | [3498-reverse-degree-of-a-string](https://github.com/iskfdh/Leetcode_Q/tree/master/3498-reverse-degree-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/iskfdh/Leetcode_Q/tree/master/3838-weighted-word-mapping) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/iskfdh/Leetcode_Q/tree/master/0258-add-digits) |
 | [1103-distribute-candies-to-people](https://github.com/iskfdh/Leetcode_Q/tree/master/1103-distribute-candies-to-people) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/iskfdh/Leetcode_Q/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/iskfdh/Leetcode_Q/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/iskfdh/Leetcode_Q/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2562-find-the-array-concatenation-value](https://github.com/iskfdh/Leetcode_Q/tree/master/2562-find-the-array-concatenation-value) |
 | [3028-ant-on-the-boundary](https://github.com/iskfdh/Leetcode_Q/tree/master/3028-ant-on-the-boundary) |
