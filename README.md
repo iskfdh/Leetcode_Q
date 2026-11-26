@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2485-find-the-pivot-integer](https://github.com/iskfdh/Leetcode_Q/tree/master/2485-find-the-pivot-integer) |
 | [2843-count-symmetric-integers](https://github.com/iskfdh/Leetcode_Q/tree/master/2843-count-symmetric-integers) |
 | [2965-find-missing-and-repeated-values](https://github.com/iskfdh/Leetcode_Q/tree/master/2965-find-missing-and-repeated-values) |
+| [3360-stone-removal-game](https://github.com/iskfdh/Leetcode_Q/tree/master/3360-stone-removal-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/iskfdh/Leetcode_Q/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3663-find-the-least-frequent-digit](https://github.com/iskfdh/Leetcode_Q/tree/master/3663-find-the-least-frequent-digit) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/iskfdh/Leetcode_Q/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2562-find-the-array-concatenation-value](https://github.com/iskfdh/Leetcode_Q/tree/master/2562-find-the-array-concatenation-value) |
 | [3028-ant-on-the-boundary](https://github.com/iskfdh/Leetcode_Q/tree/master/3028-ant-on-the-boundary) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/iskfdh/Leetcode_Q/tree/master/3354-make-array-elements-equal-to-zero) |
+| [3360-stone-removal-game](https://github.com/iskfdh/Leetcode_Q/tree/master/3360-stone-removal-game) |
 | [3477-fruits-into-baskets-ii](https://github.com/iskfdh/Leetcode_Q/tree/master/3477-fruits-into-baskets-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/iskfdh/Leetcode_Q/tree/master/3498-reverse-degree-of-a-string) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/iskfdh/Leetcode_Q/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
